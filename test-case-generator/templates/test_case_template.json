@@ -1,0 +1,41 @@
+{
+  "test_cases": [
+    {
+      "id": "TC001",
+      "name": "示例测试用例",
+      "description": "这是一个示例测试用例模板",
+      "priority": "高",
+      "test_type": "功能测试",
+      "preconditions": [
+        "前置条件1",
+        "前置条件2"
+      ],
+      "steps": [
+        "步骤1: 操作描述",
+        "步骤2: 操作描述",
+        "步骤3: 操作描述"
+      ],
+      "expected_results": [
+        "预期结果1",
+        "预期结果2"
+      ],
+      "test_data": {
+        "input": "测试输入",
+        "expected_output": "预期输出"
+      }
+    }
+  ],
+  "summary": {
+    "total": 1,
+    "by_priority": {
+      "高": 1,
+      "中": 0,
+      "低": 0
+    },
+    "by_type": {
+      "功能测试": 1,
+      "边界测试": 0,
+      "异常测试": 0
+    }
+  }
+}
