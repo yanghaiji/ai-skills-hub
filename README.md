@@ -1,4 +1,4 @@
-# 🤖 AI Skills 技能仓库
+# 🤖 AI Skills Hub 技能仓库
 
 > **一个结构化的 Agent 技能集合**  
 > 为 Agent 提供专业化的开发规范、工具集成和工作流指导
@@ -362,7 +362,7 @@ metadata:
 
 ## 📜 许可证
 
-MIT License
+Apache2.0 License
 
 ---
 
